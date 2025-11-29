@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Xutianlee/bird-website
+  repo: xuianlee36/bird-website
   branch: main
   open_authoring: true
 publish_mode: editorial_workflow
